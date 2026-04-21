@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hi, I'm Salon Gautam!<br>I am a passionate Web and Mobile App Developer, focusing on building user-friendly and visually appealing applications using modern technologies like React, React Native, and Tailwind CSS. My journey in development revolves around creating seamless digital experiences, solving real-world problems, and constantly refining my skills through innovative projects.<br><br>💻 Tech Stack: React, React Native, Next Js, JavaScript, TypeScript, Node JS, Express JS, Postgres, mangoDB, Tailwind CSS, Material-UI<br>📱 Currently working as an Web & App Developer<br>🔬 Exploring Data Mining and learning AI<br>🚀 Always eager to take on new challenges and contribute to open-source projects<br>Feel free to connect or check out my repositories!<br><br>
+Hi, I'm Salon Gautam 👋
+
+I’m a Full Stack Developer specializing in building scalable web and mobile applications, along with AI-powered automation systems. I focus on creating efficient, user-friendly solutions that solve real-world problems and streamline workflows.
+
+I combine modern frontend technologies with powerful backend systems and automation tools to deliver complete end-to-end solutions.
 
 
 ## 🌐 Socials:
