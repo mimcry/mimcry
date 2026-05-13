@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I'm Salon Gautam 👋
 
-I’m a Full Stack Developer specializing in building scalable web and mobile applications, along with AI-powered automation systems. I focus on creating efficient, user-friendly solutions that solve real-world problems and streamline workflows.
+I’m a Software Engineer specializing in building scalable web and mobile applications, along with AI-powered automation systems. I focus on creating efficient, user-friendly solutions that solve real-world problems and streamline workflows.
 
 I combine modern frontend technologies with powerful backend systems and automation tools to deliver complete end-to-end solutions.
 
